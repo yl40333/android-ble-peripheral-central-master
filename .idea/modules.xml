@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bluetooth.iml" filepath="$PROJECT_DIR$/Bluetooth.iml" />
+      <module fileurl="file://C:/Users/HP/AndroidStudioProjects/Bluetooth/BluetoothLE.iml" filepath="C:/Users/HP/AndroidStudioProjects/Bluetooth/BluetoothLE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-ble-peripheral-central-master.iml" filepath="$PROJECT_DIR$/.idea/modules/android-ble-peripheral-central-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-ble-peripheral-central-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-ble-peripheral-central-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-ble-peripheral-central-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-ble-peripheral-central-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-ble-peripheral-central-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-ble-peripheral-central-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-ble-peripheral-central-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-ble-peripheral-central-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
